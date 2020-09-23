@@ -24,5 +24,5 @@ for i in range(5, 0, -1):
     sleep(1)
 
 while(True):
-    msgInput.send_keys('*BOLSONARO CHUPA PICA 8===========================D*')
+    msgInput.send_keys('*hihihi*')
     msgInput.send_keys(Keys.ENTER)
